@@ -37,7 +37,7 @@ anthil-networks-backend/
 
 # 🔧 Setup Instructions (Local)
 #### Clone the repository
-git clone <reponame>
+git clone https://github.com/Puneetharajkr/anthil-networks-bus-booking-backend.git   
 cd anthil-networks-backend
 
 ## Install dependencies
